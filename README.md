@@ -1,1 +1,1 @@
-VSCode extension for showing error inline at the point of origin
+VSCode extension for showing errors inline at the point of origin
