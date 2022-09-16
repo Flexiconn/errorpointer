@@ -1,8 +1,3 @@
-// The module 'vscode' contains the VS Code extensibility API
-// Import the module and reference it with the alias vscode in your code below
-const { info } = require('console');
-const { Context } = require('mocha');
-const { env } = require('process');
 const vscode = require("vscode");
 
 // this method is called when your extension is activated
